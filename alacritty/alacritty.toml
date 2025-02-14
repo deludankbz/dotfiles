@@ -1,0 +1,13 @@
+import = [ "~/.config/alacritty/themes/themes/kimbie_dark.toml"]
+
+[env]
+WINIT_X11_SCALE_FACTOR = "1.0"
+
+[window]
+# opacity = 0.9
+dynamic_padding = true
+padding = { x = 8, y = 8}
+
+[font]
+builtin_box_drawing = true
+normal = { family = "CaskaydiaMonoNerdFontPropo", style = "Bold" }
