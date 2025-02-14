@@ -15,7 +15,7 @@
 
 
 ### Useful packages
-#### fc-list (AUR)
+#### `fc-list` (AUR)
 - Lists all fonts present in the system
 
 ### Tricks & Stuff
